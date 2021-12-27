@@ -15,8 +15,8 @@ Language: Python3
 
 ## [Programmers](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 ##### 자료구조 - 해시/스택/큐/힙
-- [완주하지 못한 선수](programmers/완주하지 못한 선수.cpp)
-- [전화번호 목록](programmers/전화번호 목록.cpp)
+- [완주하지 못한 선수](programmers/완주하지못한 선수.cpp)
+- [전화번호 목록](programmers/전화번호목록.cpp)
 - [위장](programmers/위장.cpp) 
 - [베스트 앨범](programmers/베스트 앨범.cpp)
 - [탑](programmers/42588.py)
