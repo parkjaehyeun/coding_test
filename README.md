@@ -15,11 +15,11 @@ Language: Python3
 
 ## [Programmers](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 ##### 자료구조 - 해시/스택/큐/힙
-- [완주하지 못한 선수](Programmers/42576.py)
-- [전화번호 목록](Programmers/42577.py)
-- [위장](Programmers/42578.py) 
-- [베스트 앨범](Programmers/42579.py)
-- [탑](Programmers/42588.py)
+- [완주하지 못한 선수](programmers/완주하지 못한 선수.cpp)
+- [전화번호 목록](programmers/전화번호 목록.cpp)
+- [위장](programmers/위장.cpp) 
+- [베스트 앨범](programmers/베스트 앨범.cpp)
+- [탑](programmers/42588.py)
 - [다리를 지나는 트럭](Programmers/42583.py)
 - [기능 개발](Programmers/42586.py)
 - [프린터](Programmers/42587.py)
