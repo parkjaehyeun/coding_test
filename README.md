@@ -15,13 +15,13 @@ Language: Python3
 
 ## [Programmers](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 ##### 자료구조 - 해시/스택/큐/힙
-- [완주하지 못한 선수](programmers/완주하지못한선수.cpp)
-- [전화번호 목록](programmers/전화번호목록.cpp)
-- [위장](programmers/위장.cpp) 
-- [베스트 앨범](programmers/베스트 앨범.cpp)
+- [완주하지 못한 선수](Programmers/완주하지못한선수.cpp)
+- [전화번호 목록](Programmers/전화번호목록.cpp)
+- [위장](Programmers/위장.cpp) 
+- [베스트 앨범](Programmers/베스트앨범.cpp)
 - [탑](programmers/42588.py)
 - [다리를 지나는 트럭](Programmers/42583.py)
-- [기능 개발](Programmers/42586.py)
+- [기능 개발](Programmers/기능개발.cpp)
 - [프린터](Programmers/42587.py)
 - [쇠막대기](Programmers/42585.py)
 - [주식가격](Programmers/42584.py)
