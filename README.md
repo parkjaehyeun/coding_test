@@ -22,7 +22,7 @@ Language: Python3
 - [탑](programmers/42588.py)
 - [다리를 지나는 트럭](Programmers/42583.py)
 - [기능 개발](Programmers/기능개발.cpp)
-- [프린터](Programmers/42587.py)
+- [프린터](Programmers/프린터.cpp)
 - [쇠막대기](Programmers/42585.py)
 - [주식가격](Programmers/42584.py)
 - [더 맵게](Programmers/42626.py)
