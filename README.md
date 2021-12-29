@@ -24,7 +24,7 @@ Language: Python3
 - [기능 개발](Programmers/기능개발.cpp)
 - [프린터](Programmers/프린터.cpp)
 - [쇠막대기](Programmers/42585.py)
-- [주식가격](Programmers/42584.py)
+- [주식가격](Programmers/주식가격.cpp)
 - [더 맵게](Programmers/42626.py)
 - [라면공장](Programmers/42629.py)
 - [디스크 컨트롤러](Programmers/42627.py)
