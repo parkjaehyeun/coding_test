@@ -25,7 +25,7 @@ Language: Python3
 - [프린터](Programmers/프린터.cpp)
 - [쇠막대기](Programmers/42585.py)
 - [주식가격](Programmers/주식가격.cpp)
-- [더 맵게](Programmers/42626.py)
+- [더 맵게](Programmers/더맵게.cpp)
 - [라면공장](Programmers/42629.py)
 - [디스크 컨트롤러](Programmers/42627.py)
 - [이중 우선 순위 큐](Programmers/42628.py)
