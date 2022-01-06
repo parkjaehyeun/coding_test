@@ -28,7 +28,7 @@ Language: C++
 - [더 맵게](Programmers/더맵게.cpp)
 - [라면공장](Programmers/42629.py)
 - [디스크 컨트롤러](Programmers/디스크컨트롤러.cpp)
-- [이중 우선 순위 큐](Programmers/42628.py)
+- [이중 우선 순위 큐](Programmers/이중우선순위큐.cpp)
 ##### 정렬
 - [K번째 수](Programmers/정렬.cpp)
 - [가장 큰 수](Programmers/42746.py)
