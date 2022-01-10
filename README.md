@@ -32,7 +32,7 @@ Language: C++
 ##### 정렬
 - [K번째 수](Programmers/정렬.cpp)
 - [가장 큰 수](Programmers/가장큰수.cpp)
-- [H-Index](Programmers/HIndex.cpp)
+- [H-Index](Programmers/hindex.cpp)
 ##### 탐색 - 완전탐색/이분탐색
 - [모의고사](Programmers/42840.py)
 - [소수 찾기](Programmers/42839.py)
