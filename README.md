@@ -25,7 +25,6 @@ Language: C++
 - [쇠막대기](Programmers/42585.py)
 - [주식가격](Programmers/주식가격.cpp)
 - [더 맵게](Programmers/더맵게.cpp)
-- [라면공장](Programmers/42629.py)
 - [디스크 컨트롤러](Programmers/디스크컨트롤러.cpp)
 - [이중 우선 순위 큐](Programmers/이중우선순위큐.cpp)
 ##### 정렬
