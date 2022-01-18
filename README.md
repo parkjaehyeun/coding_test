@@ -19,7 +19,6 @@ Language: C++
 - [전화번호 목록](Programmers/전화번호목록.cpp)
 - [위장](Programmers/위장.cpp) 
 - [베스트 앨범](Programmers/베스트앨범.cpp)
-- [탑](programmers/42588.py)
 - [다리를 지나는 트럭](Programmers/다리를지나는트럭.cpp)
 - [기능 개발](Programmers/기능개발.cpp)
 - [프린터](Programmers/프린터.cpp)
