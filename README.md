@@ -22,7 +22,6 @@ Language: C++
 - [다리를 지나는 트럭](Programmers/다리를지나는트럭.cpp)
 - [기능 개발](Programmers/기능개발.cpp)
 - [프린터](Programmers/프린터.cpp)
-- [쇠막대기](Programmers/42585.py)
 - [주식가격](Programmers/주식가격.cpp)
 - [더 맵게](Programmers/더맵게.cpp)
 - [디스크 컨트롤러](Programmers/디스크컨트롤러.cpp)
