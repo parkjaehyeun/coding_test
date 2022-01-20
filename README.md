@@ -32,7 +32,7 @@ Language: C++
 - [H-Index](Programmers/hindex.cpp)
 ##### 탐색 - 완전탐색/이분탐색
 - [모의고사](Programmers/모의고사.cpp)
-- [소수 찾기](Programmers/42839.py)
+- [소수 찾기](Programmers/42839.py)*
 - [카펫](Programmers/카펫.cpp)
 - [예산](Programmers/예산.cpp)
 - [입국심사](Programmers/43238.py)
