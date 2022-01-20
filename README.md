@@ -22,7 +22,6 @@ Language: C++
 - [다리를 지나는 트럭](Programmers/다리를지나는트럭.cpp)
 - [기능 개발](Programmers/기능개발.cpp)
 - [프린터](Programmers/프린터.cpp)
-- [쇠막대기](Programmers/42585.py)
 - [주식가격](Programmers/주식가격.cpp)
 - [더 맵게](Programmers/더맵게.cpp)
 - [디스크 컨트롤러](Programmers/디스크컨트롤러.cpp)
@@ -32,7 +31,7 @@ Language: C++
 - [가장 큰 수](Programmers/가장큰수.cpp)
 - [H-Index](Programmers/hindex.cpp)
 ##### 탐색 - 완전탐색/이분탐색
-- [모의고사](Programmers/42840.py)
+- [모의고사](Programmers/모의고사.cpp)
 - [소수 찾기](Programmers/42839.py)
 - [숫자 야구](Programmers/42841.py)
 - [카펫](Programmers/42842.py)
