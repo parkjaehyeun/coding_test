@@ -31,7 +31,7 @@ Language: C++
 - [가장 큰 수](Programmers/가장큰수.cpp)
 - [H-Index](Programmers/hindex.cpp)
 ##### 탐색 - 완전탐색/이분탐색
-- [모의고사](Programmers/42840.py)
+- [모의고사](Programmers/모의고사.cpp)
 - [소수 찾기](Programmers/42839.py)
 - [숫자 야구](Programmers/42841.py)
 - [카펫](Programmers/42842.py)
