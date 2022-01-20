@@ -33,9 +33,8 @@ Language: C++
 ##### 탐색 - 완전탐색/이분탐색
 - [모의고사](Programmers/모의고사.cpp)
 - [소수 찾기](Programmers/42839.py)
-- [숫자 야구](Programmers/42841.py)
-- [카펫](Programmers/42842.py)
-- [예산](Programmers/43237.py)
+- [카펫](Programmers/카펫.cpp)
+- [예산](Programmers/예산.cpp)
 - [입국심사](Programmers/43238.py)
 ##### DP
 - [N으로 표현](Programmers/42895.py)
